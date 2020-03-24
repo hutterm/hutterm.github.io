@@ -1,0 +1,55 @@
+
+/* Here you have to specified the path to the fontchid.ttf font */
+@font-face {
+      font-family: "fontchido";
+      src: url("fonts/fontchido.ttf");
+}
+
+[class^="ic-"], [class*=" ic-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fontchido' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.ic-upwork:before{
+  content: "C";
+  font-size: 25px;
+}
+
+.ic-upwork-circle:before{
+  content: "D";
+  font-size: 3rem;
+}
+
+.ic-dotnet:before {
+  content: "E";
+  font-size: 3rem;
+}
+
+.pc{
+  color: #ed6a5a;
+}
+.constWdth{
+  display:inline-block;
+  width: 1.3rem;
+}
+.lg-icon{
+  font-size:200px;
+  color:#75b8c8;
+}
+img.flag{
+  max-width:1.3rem; 
+  border-radius: unset;
+  border:1px solid #333333;
+  margin: unset;
+  display:inline-block;
+  vertical-align: middle;
+}

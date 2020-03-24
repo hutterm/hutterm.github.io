@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/projects/photography/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/photography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/photography/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/projects/design/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/design/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/projects/writing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/writing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/writing/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/tags/"
+                />
+  </url>
+  
+</urlset>

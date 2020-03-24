@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/en/projects/photography/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/photography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/photography/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/projects/design/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/design/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/projects/writing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/writing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/writing/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/blog/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/tags/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://example.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/tags/code/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/en/blog/no-date/</loc>
+  </url>
+  
+</urlset>
