@@ -3,138 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/en/projects/photography/</loc>
+    <loc>https://hutterm.github.io/en/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/projects/photography/"
+                href="https://hutterm.github.io/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/photography/"
+                href="https://hutterm.github.io/en/projects/photography/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/en/projects/design/</loc>
+    <loc>https://hutterm.github.io/en/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/projects/design/"
+                href="https://hutterm.github.io/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/design/"
+                href="https://hutterm.github.io/en/projects/design/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/en/projects/writing/</loc>
+    <loc>https://hutterm.github.io/en/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/projects/writing/"
+                href="https://hutterm.github.io/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/writing/"
+                href="https://hutterm.github.io/en/projects/writing/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/en/projects/</loc>
+    <loc>https://hutterm.github.io/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/projects/"
+                href="https://hutterm.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/"
+                href="https://hutterm.github.io/en/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/en/blog/</loc>
+    <loc>https://hutterm.github.io/en/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/blog/hipster-ipsum/</loc>
+    <loc>https://hutterm.github.io/en/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/tags/ipsum/</loc>
+    <loc>https://hutterm.github.io/en/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/</loc>
+    <loc>https://hutterm.github.io/en/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/"
+                href="https://hutterm.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/"
+                href="https://hutterm.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/en/tags/</loc>
+    <loc>https://hutterm.github.io/en/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/tags/"
+                href="https://hutterm.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/tags/"
+                href="https://hutterm.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/en/tags/words/</loc>
+    <loc>https://hutterm.github.io/en/tags/words/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/tags/code/</loc>
+    <loc>https://hutterm.github.io/en/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/blog/startup-ipsum/</loc>
+    <loc>https://hutterm.github.io/en/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/tags/coffee/</loc>
+    <loc>https://hutterm.github.io/en/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/blog/coffee-ipsum/</loc>
+    <loc>https://hutterm.github.io/en/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/tags/images/</loc>
+    <loc>https://hutterm.github.io/en/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/en/blog/no-date/</loc>
+    <loc>https://hutterm.github.io/en/blog/no-date/</loc>
   </url>
   
 </urlset>
